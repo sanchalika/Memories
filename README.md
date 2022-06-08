@@ -1,7 +1,7 @@
 
 # Memories
 
-![Memories]([https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png](https://github.com/sanchalika/Memories/blob/main/Screenshot%202022-06-08%20165437.png))
+![Memories](https://github.com/sanchalika/Memories/blob/main/Screenshot%202022-06-08%20165437.png)
 
 ## Introduction
 
